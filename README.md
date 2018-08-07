@@ -11,6 +11,13 @@ This image is a wrapper of [official Google Dart image][1] that contains [Conten
 
 
 
+## Status
+
+__PROJECT IS CLOSED AND ARCHIVED. NO MAINTAINING WILL BE CONTINUED.__
+
+
+
+
 ## How to use this image
 
 Just map your working directory to `/app` inside container:
